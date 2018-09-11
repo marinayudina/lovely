@@ -1,0 +1,22 @@
+.header{
+    padding: 10px 0;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 997;
+    background: rgba(138,144,255,0.9);
+
+}
+.menu-nav_item{
+    list-style: none;
+}
+.menu-nav_link{
+    text-decoration:none;
+    display:inline-block;
+    color: #fff;
+    font-weight 400;
+    font-size:12px;
+    text-transform:uppercase;
+    outline:none;
+}
